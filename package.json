@@ -1,5 +1,5 @@
 {
-  "name": "id_resolver",
+  "name": "id-resolver",
   "version": "1.0.0",
   "description": "A discord.js id resolver.",
   "main": "index.js",
