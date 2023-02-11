@@ -1,0 +1,12 @@
+{
+  "name": "id_resolver",
+  "version": "1.0.0",
+  "description": "A discord.js id resolver.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maurizio#0268",
+  "license": "ISC",
+  "keywords": ["discord","client","node"]
+}
